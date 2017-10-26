@@ -1,7 +1,11 @@
 img {
-    width: 200px;
+    width: 175px;
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "ALGERIAN";
+    font-size: xx-large
+}
+.who {
+    background:url(http://s7d2.scene7.com/is/image/PetSmart/PB0101_HERO-Fish-Food-20160818?%24sclp-banner-main_small%24);
 }
